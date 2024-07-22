@@ -27,3 +27,5 @@
    ```
 
 **Note**: You can update the names of the embedding and LLM models in the `settings.py` file.
+
+![Screenshot from 2024-07-23 00-29-38](https://github.com/user-attachments/assets/0951db5f-627c-4a1b-bbaa-7c8d2b4f074d)
